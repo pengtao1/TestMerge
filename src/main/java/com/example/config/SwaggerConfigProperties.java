@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
  * Created by wb-zhangkenan on 2017/4/19.
