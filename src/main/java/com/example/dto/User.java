@@ -1,8 +1,6 @@
 package com.example.dto;
 
-/**
- * Created by pengtao on 2017/4/19.
- */
+
 public class User {
 
     private Long id;

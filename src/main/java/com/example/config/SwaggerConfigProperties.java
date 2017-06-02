@@ -6,12 +6,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-/**
- * Created by wb-zhangkenan on 2017/4/19.
- *
- * @author wb-zhangkenan
- * @date 2017/04/19
- */
 @ConfigurationProperties(prefix = "sop.swagger")
 @Component
 public class SwaggerConfigProperties implements Serializable {

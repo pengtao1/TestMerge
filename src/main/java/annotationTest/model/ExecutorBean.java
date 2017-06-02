@@ -2,9 +2,6 @@ package annotationTest.model;
 
 import java.lang.reflect.Method;
 
-/**
- * Created by pengtao on 2017/6/1.
- */
 public class ExecutorBean {
     private Object object;
 

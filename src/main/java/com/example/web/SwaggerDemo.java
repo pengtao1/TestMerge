@@ -16,12 +16,7 @@ import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * Created by wb-zhangkenan on 2017/4/19.
- *
- * @author wb-zhangkenan
- * @date 2017/04/19
- */
+
 @Api(value = "Swagger的demo")
 @RestController
 @RequestMapping("/swaggerDemo")

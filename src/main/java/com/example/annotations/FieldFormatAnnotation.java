@@ -1,10 +1,5 @@
 package com.example.annotations;
 
-/**
- * Created by wb-zhangkenan on 2017/4/19.
- *
- * @date 2017/04/19
- */
 public @interface FieldFormatAnnotation {
 
     /**

@@ -9,9 +9,6 @@ import annotationTest.annotation.Controller;
 import annotationTest.model.ExecutorBean;
 import annotationTest.util.AnnoManageUtil;
 
-/**
- * Created by pengtao on 2017/6/1.
- */
 public class Test {
     public static void main(String[] args) {
         List<Class<?>> classesList = null;

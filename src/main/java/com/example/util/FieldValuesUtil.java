@@ -3,12 +3,6 @@ package com.example.util;
 import java.util.Date;
 import java.util.Random;
 
-/**
- * Created by wb-zhangkenan on 2017/4/19.
- *
- * @author wb-zhangkenan
- * @date 2017/04/19
- */
 public class FieldValuesUtil {
 
     private static Random random = new Random();

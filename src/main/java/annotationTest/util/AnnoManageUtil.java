@@ -18,11 +18,6 @@ import java.util.Map;
 import annotationTest.annotation.RequestMapping;
 import annotationTest.model.ExecutorBean;
 
-//import java.lang.reflect.Method;
-
-/**
- * Created by wzj on 2016/10/1.
- */
 public final class AnnoManageUtil {
     /**
      * 获取当前包路径下指定的Controller注解类型的文件

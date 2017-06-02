@@ -4,12 +4,6 @@ import com.example.annotations.FieldFormatAnnotation;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
-/**
- * Created by wb-zhangkenan on 2017/4/19.
- *
- * @author wb-zhangkenan
- * @date 2017/04/19
- */
 @ApiModel
 public class SwaggerDemoDTO {
 
