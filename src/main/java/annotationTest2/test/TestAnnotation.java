@@ -3,7 +3,7 @@ package annotationTest2.test;
 import java.util.List;
 
 import annotationTest2.help.SortableField;
-import annotationTest2.model.Parent;
+import annotationTest2.service.Parent;
 import annotationTest2.service.Child;
 
 public class TestAnnotation {
